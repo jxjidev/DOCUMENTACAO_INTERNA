@@ -47,6 +47,7 @@
   * [Teste das integrações PI](processo-de-implantacao-do-devops/teste-das-integracoes-pi.md)
   * [Upload da request no cliente](processo-de-implantacao-do-devops/upload-da-request-no-cliente.md)
   * [Upload do pacote de integrações (CRIAR Integração no Cliente)](processo-de-implantacao-do-devops/upload-do-pacote-de-integracoes-criar-integracao-no-cliente.md)
+  * [Requests do Produto](processo-de-implantacao-do-devops/requests-do-produto.md)
 * [Avaliação de Qualidade](avaliacao-de-qualidade/README.md)
   * [Funcionalidade "Ciente"](avaliacao-de-qualidade/funcionalidade-ciente.md)
   * [Ativar Funcionalidade](avaliacao-de-qualidade/ativar-funcionalidade.md)
