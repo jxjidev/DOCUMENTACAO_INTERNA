@@ -14,4 +14,4 @@ Z+ ambiente&#x20;
 
 Conforme exemplo abaixo cadastrado no cliente.&#x20;
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>

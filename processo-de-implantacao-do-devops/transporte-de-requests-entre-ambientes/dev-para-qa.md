@@ -6,7 +6,7 @@ Em relação a função “ZFMQADR\_STMS”, seria o novo procedimento que está
 
 Nesse caso o flag abaixo deve estar ativo no Portal Qadevops por cliente.&#x20;
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Menu: Administração->Integrações->Importação STMS&#x20;
 
