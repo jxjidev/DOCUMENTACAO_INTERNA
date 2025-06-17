@@ -116,3 +116,5 @@
   * [Variáveis de Ambiente](projeto-qaplugin-build-e-deploy/variaveis-de-ambiente.md)
   * [Build da Aplicação](projeto-qaplugin-build-e-deploy/build-da-aplicacao.md)
   * [Instalação FileZilla e Deploy](projeto-qaplugin-build-e-deploy/instalacao-filezilla-e-deploy.md)
+* [Gerando Containers Docker de Projetos](gerando-containers-docker-de-projetos/README.md)
+  * [Gerando Imagens e Salvando DockerHub](gerando-containers-docker-de-projetos/gerando-imagens-e-salvando-dockerhub.md)
