@@ -115,4 +115,4 @@
   * [Instalações](projeto-qaplugin-build-e-deploy/instalacoes.md)
   * [Variáveis de Ambiente](projeto-qaplugin-build-e-deploy/variaveis-de-ambiente.md)
   * [Build da Aplicação](projeto-qaplugin-build-e-deploy/build-da-aplicacao.md)
-  * [Instalação FileZilla](projeto-qaplugin-build-e-deploy/instalacao-filezilla.md)
+  * [Instalação FileZilla e Deploy](projeto-qaplugin-build-e-deploy/instalacao-filezilla-e-deploy.md)
