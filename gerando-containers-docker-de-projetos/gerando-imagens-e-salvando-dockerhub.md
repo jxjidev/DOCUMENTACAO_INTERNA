@@ -31,20 +31,20 @@
 
 1. docker build -t qacodai-api
 2. docker tag qacodai-api qametrik/qacodai-api:latest
-3. docker pull qametrik/qacodai-api:latest
+3. docker push qametrik/qacodai-api:latest
 
 **Projeto QaCodai-UI**:
 
 1. docker build -t qacodai-ui
 2. docker tag qacodai-uiqametrik/qacodai-ui:latest
-3. docker pull qametrik/qacodai-ui:latest
+3. docker push qametrik/qacodai-ui:latest
 
 **Projeto QaPayments-API**:
 
 1. docker build -t qapayments-api
 2. docker tag qapayments-api qametrik/qapayments-api:latest
-3. docker pull qametrik/qapayments-api:latest
+3. docker push qametrik/qapayments-api:latest
 
 <figure><img src="../.gitbook/assets/010.jpg" alt=""><figcaption></figcaption></figure>
 
-* Após criar a imagem e rodar os comandos a imagem será enviada para o repositório DockerHub da qametrik, próximos passos estão na documentação [https://app.gitbook.com/o/R99nZu0E5ufbK0zZ2SoD/s/AX2kWrvGxHpzBytQuSWv/\~/changes/64/servidor-supero-aplicacoes/acesso-ao-servidor-via-ssh-cmd-ou-powershell](https://app.gitbook.com/o/R99nZu0E5ufbK0zZ2SoD/s/AX2kWrvGxHpzBytQuSWv/~/changes/64/servidor-supero-aplicacoes/acesso-ao-servidor-via-ssh-cmd-ou-powershell)
+* Após criar a imagem e rodar os comandos a imagem será enviada para o repositório DockerHub da qametrik
