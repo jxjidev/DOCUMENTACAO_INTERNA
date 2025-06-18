@@ -14,11 +14,11 @@ sudo docker logs -f dev-qacodai
 
 ## Remover Imagem Docker que será feita a atualização
 
-sudo docker rmi cadalu2025/qacodai-api:latest
+sudo docker rm dev-qacodai-api
 
-sudo docker rmi cadalu2025/qapayments-api:latest
+sudo docker rm dev-qapayments-api
 
-sudo docker rmi cadalu2025/qacodai-ui:latest
+sudo docker rm dev-qacodai-ui
 
 ## Baixar Imagen Docker que será atualizada
 
