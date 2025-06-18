@@ -20,7 +20,7 @@
 * Abrir cmd e digitar o comando: docker login
 * Será solicitado a validação no browser para sincronização da conta
 * Caso seja solicitado inserir usuário e senha da conta do DockerHub
-* **Usuario**: qametrik **Senha**: QaMetrik2025#
+* **Usuario**: cadalu2025 **Senha**: QaMetrik2025#
 
 ## Gerando Imagens
 
@@ -30,21 +30,21 @@
 **Projeto QaCodai-API**:
 
 1. docker build -t qacodai-api
-2. docker tag qacodai-api qametrik/qacodai-api:latest
-3. docker push qametrik/qacodai-api:latest
+2. docker tag qacodai-api cadalu2025 /qacodai-api:latest
+3. docker push cadalu2025 /qacodai-api:latest
 
 **Projeto QaCodai-UI**:
 
 1. docker build -t qacodai-ui
-2. docker tag qacodai-uiqametrik/qacodai-ui:latest
-3. docker push qametrik/qacodai-ui:latest
+2. docker tag qacodai-ui cadalu2025 /qacodai-ui:latest
+3. docker push cadalu2025 /qacodai-ui:latest
 
 **Projeto QaPayments-API**:
 
 1. docker build -t qapayments-api
-2. docker tag qapayments-api qametrik/qapayments-api:latest
-3. docker push qametrik/qapayments-api:latest
+2. docker tag qapayments-api cadalu2025 /qapayments-api:latest
+3. docker push cadalu2025 /qapayments-api:latest
 
 <figure><img src="../.gitbook/assets/010.jpg" alt=""><figcaption></figcaption></figure>
 
-* Após criar a imagem e rodar os comandos a imagem será enviada para o repositório DockerHub da qametrik
+* Após criar a imagem e rodar os comandos a imagem será enviada para o repositório DockerHub
