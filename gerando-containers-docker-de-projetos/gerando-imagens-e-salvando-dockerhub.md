@@ -8,7 +8,7 @@
 ## Efetuar Login no Docker Hub
 
 * Link: [https://hub.docker.com](https://hub.docker.com/repositories/qametrik)
-* Email: eraldo.filho@qametrik.com
+* Email: eraldocarlosdev@gmail.com&#x20;
 * Senha: QaMetrik2025#
 
 ## Acessar cmd e efetuar login no DockerHub
