@@ -14,7 +14,7 @@ sudo docker logs -f dev-qacodai
 
 ## Parar Container Docker que será feita a atualização
 
-sudo docker stop dev-qacodai-api
+sudo docker stop dev-qacodai
 
 sudo docker stop dev-qapayments-api
 
@@ -22,7 +22,7 @@ sudo docker stop dev-qacodai-ui
 
 ## Remover Container Docker que será feita a atualização
 
-sudo docker rm dev-qacodai-api
+sudo docker rm dev-qacodai
 
 sudo docker rm dev-qapayments-api
 
