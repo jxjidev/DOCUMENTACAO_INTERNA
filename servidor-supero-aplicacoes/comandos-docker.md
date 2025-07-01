@@ -12,7 +12,15 @@ sudo docker logs -f dev-qacodai
 
 <figure><img src="../.gitbook/assets/supero4.jpg" alt=""><figcaption></figcaption></figure>
 
-## Remover Imagem Docker que será feita a atualização
+## Parar Container Docker que será feita a atualização
+
+sudo docker stop dev-qacodai-api
+
+sudo docker stop dev-qapayments-api
+
+sudo docker stop dev-qacodai-ui
+
+## Remover Container Docker que será feita a atualização
 
 sudo docker rm dev-qacodai-api
 
