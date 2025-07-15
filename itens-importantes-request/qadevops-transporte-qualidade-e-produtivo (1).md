@@ -8,7 +8,7 @@ Caso não esteja nos ambientes citados dos clientes vai ocorrer DUMP na consulta
 \
 Se caso ocorra o erro abaixo, de objetos em ordens locais, alterar o pacote ZQADEVOPS e ZBC\_AVALIA\_CODIGO para o destino do cliente para realizar o transporte.\
 \
-![](<../../../.gitbook/assets/image (136).png>)
+![](<../.gitbook/assets/image (136).png>)
 
 
 
