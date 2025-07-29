@@ -1,9 +1,8 @@
 # Table of contents
 
 * [Processo de Implantação do Devops](README.md)
-  * [Configurar Cliente](processo-de-implantacao-do-devops/configurar-cliente.md)
-  * [Cadastro de Ambientes](processo-de-implantacao-do-devops/cadastro-de-ambientes.md)
-  * [Procedimento](processo-de-implantacao-do-devops/procedimento.md)
+  * [Cadastro de Ambientes](processo-de-implantacao-do-devops/cadastro-de-ambientes/README.md)
+    * [Procedimento](processo-de-implantacao-do-devops/cadastro-de-ambientes/procedimento.md)
   * [Requests do Produto](processo-de-implantacao-do-devops/requests-do-produto.md)
   * [Configuração Ambientes](processo-de-implantacao-do-devops/configuracao-ambientes.md)
   * [Configurar a ferramenta ABAP](processo-de-implantacao-do-devops/configurar-a-ferramenta-abap.md)
