@@ -8,7 +8,7 @@ Para inserir objetos, arraste o card para a etapa "Desenvolvimento". Isso criar�
 
 <figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
-Após a alocação dos objetos na request, recomenda-se validar sua inclusão. Para isso, acesse o menu da demanda (três pontinhos no canto direito) e utilize a opção "Atualizar objetos".
+Após a alocação dos objetos na request pelo portal do **SAP**, recomenda-se validar sua inclusão. Para isso, acesse o menu da demanda (três pontinhos no canto direito) e utilize a opção "Atualizar objetos".
 
 <figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
