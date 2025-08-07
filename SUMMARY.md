@@ -1,8 +1,9 @@
 # Table of contents
 
 * [Processo de Implantação do Devops](README.md)
-  * [Cadastro de Ambientes](processo-de-implantacao-do-devops/cadastro-de-ambientes/README.md)
-    * [Procedimento](processo-de-implantacao-do-devops/cadastro-de-ambientes/procedimento.md)
+  * [Configurar Cliente](processo-de-implantacao-do-devops/configurar-cliente.md)
+  * [Cadastro de Ambientes](processo-de-implantacao-do-devops/cadastro-de-ambientes.md)
+  * [Procedimento](processo-de-implantacao-do-devops/procedimento.md)
   * [Requests do Produto](processo-de-implantacao-do-devops/requests-do-produto.md)
   * [Configuração Ambientes](processo-de-implantacao-do-devops/configuracao-ambientes.md)
   * [Configurar a ferramenta ABAP](processo-de-implantacao-do-devops/configurar-a-ferramenta-abap.md)
@@ -22,6 +23,7 @@
   * [Como criar um usuário DevOps](ambiente-de-teste-qametrik/como-criar-um-usuario-devops.md)
   * [Como criar um usuário SAP](ambiente-de-teste-qametrik/como-criar-um-usuario-sap.md)
   * [Testes Integrados](ambiente-de-teste-qametrik/testes-integrados.md)
+  * [Inserção de Objetos em uma Demanda](ambiente-de-teste-qametrik/insercao-de-objetos-em-uma-demanda.md)
 * [Transações importantes](transacoes-importantes/README.md)
   * [ZMONITORQA](transacoes-importantes/zmonitorqa.md)
   * [ZMANAGERQA](transacoes-importantes/zmanagerqa/README.md)
