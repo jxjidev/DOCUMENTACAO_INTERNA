@@ -1,10 +1,10 @@
 # Requests do Produto
 
 Segue a última request de atualização do produto, atualizar sempre que houve alguma alteração.\
-DEVK921641 \[QADevops] - Package 1.56 - FULL\
+DEVK923730 - \[QADevops] - Package 1.57 - FULL\
 \
 Request de atualização do produto.\
-DEVK921824 \[QADevops] - Package 1.56 - UPDATE - Testes Integrados\
+DEVK923327 \[QADevops] - Package 1.57 - UPDATE - Ass+Allt Standard\
 \
 \
 As Requests de atualização e pacote completo do QaDevOps constam no ambiente SAP S/4HANA e também estão gravados na pasta e por data de versão.\
