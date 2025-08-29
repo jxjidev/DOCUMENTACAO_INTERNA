@@ -112,3 +112,6 @@
   * [Como fazer?](debuggar-a-sci/como-fazer.md)
 * [Teste Unitário](teste-unitario/README.md)
   * [Como fazer](teste-unitario/como-fazer.md)
+* [Processo de funcionamento QADEVOPS x SAP](processo-de-funcionamento-qadevops-x-sap/README.md)
+  * [Funcionamento](processo-de-funcionamento-qadevops-x-sap/funcionamento.md)
+  * [Diagrama](processo-de-funcionamento-qadevops-x-sap/diagrama.md)
