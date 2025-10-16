@@ -22,8 +22,4 @@ Após salvar, o orçamento estará criado. Você pode enviá-lo para aprovação
 
 Após salvar, **atualize a página** e acesse a aba **Aprovações**. O orçamento ficará disponível para análise, podendo ser **aprovado ou rejeitado** conforme a validação do responsável.
 
-<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
-
 Com o orçamento aprovado, a demanda estará liberada para ser movida para a fase de desenvolvimento.
-
-<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
