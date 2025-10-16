@@ -15,7 +15,7 @@ Durante a criação, deve-se verificar se um dos aprovadores possui permissão p
 
 <figure><img src="../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
-Após a criação, os centros de custos podem ser editados ou excluídos por meio das opções disponíveis na coluna "Ações".
+Após a criação, os centros de custos podem ser editados ou excluídos (caso não tenha demandas associadas) por meio das opções disponíveis na coluna "Ações".
 
 <figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
