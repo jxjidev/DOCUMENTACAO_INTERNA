@@ -1,10 +1,10 @@
-# Como funciona
+# Criação de Orçamento
 
 O primeiro passo é criar uma demanda, selecionando o tipo "Projeto" e escolhendo o projeto correspondente no sistema.
 
 <figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
-Após criar a demanda, a aba "Gestão de Custos" será habilitada. Nela, os centros de custo do projeto já estarão pré-configurados. Basta selecionar o responsável pela aprovação do orçamento.
+Ao criar a demanda, a aba **Gestão de Custos** é habilitada e traz os centros de custo pré-configurados. Basta escolher o centro adequado e selecionar o responsável pela aprovação do orçamento.&#x20;
 
 <figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ Após salvar, o orçamento estará criado. Você pode enviá-lo para aprovação
 
 <figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
 
-Atualize a página e acesse a aba "Aprovações". Lá, o orçamento estará disponível para análise, podendo ser aprovado ou rejeitado.
+Após salvar, **atualize a página** e acesse a aba **Aprovações**. O orçamento ficará disponível para análise, podendo ser **aprovado ou rejeitado** conforme a validação do responsável.
 
 <figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
