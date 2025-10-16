@@ -1,20 +1,29 @@
 # Como funciona
 
-A funcionalidade opera em etapas integradas, desde a criação da demanda até o gerenciamento de centros de custos, aprovações e orçamentos. Abaixo detalhamos o fluxo principal.
+O primeiro passo é criar uma demanda, selecionando o tipo "Projeto" e escolhendo o projeto correspondente no sistema.
 
+<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
+Após criar a demanda, a aba "Gestão de Custos" será habilitada. Nela, os centros de custo do projeto já estarão pré-configurados. Basta selecionar o responsável pela aprovação do orçamento.
 
-Após a configuração inicial da demanda, acesse a **aba Gestão de Custos** para gerenciar os centros de custos. Nessa aba, você pode:
+<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
-* **Adicionar um Novo Centro de Custos**:
-  * **Código**: Atribua um identificador único (ex.: alfanumérico).
-  * **Descrição**: Forneça detalhes sobre o propósito do centro.
-  * **Aprovadores**: Selecione usuários ou grupos responsáveis pelas aprovações.
-  * **Projetos**: Associe a projetos específicos.
-  * **Habilitar Controle do Tempo**: Ative para registrar o tempo gasto no desenvolvimento da demanda (ex.: horas de trabalho, permitindo relatórios de alocação temporal).
-  * **Um Usuário Aprova para Todos**: Opção para que uma aprovação única valha para todos os itens relacionados.
-* **Editar ou Deletar Centros de Custos**:
-  * Selecione um centro existente na lista e modifique os campos acima.
-  * Use o botão de exclusão para remover centros desnecessários (confirmação será solicitada para evitar erros).
+Ao salvar a demanda, ela ficará no status "Aguardando Criação do Orçamento". Para prosseguir, acesse a aba "Gestão de Custos" e clique em "Orçamentos".
 
-Essa aba serve como hub central para a manutenção de centros de custos, garantindo flexibilidade e controle granular.
+<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+
+Na seção de orçamentos, é possível visualizar os detalhes da demanda. Adicione o valor do custo, a justificativa da demanda e, se necessário, anexe documentos relacionados.
+
+<figure><img src="../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+
+Após salvar, o orçamento estará criado. Você pode enviá-lo para aprovação ou editá-lo, caso precise de ajustes.
+
+<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+
+Atualize a página e acesse a aba "Aprovações". Lá, o orçamento estará disponível para análise, podendo ser aprovado ou rejeitado.
+
+<figure><img src="../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+
+Com o orçamento aprovado, a demanda estará liberada para ser movida para a fase de desenvolvimento.
+
+<figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
