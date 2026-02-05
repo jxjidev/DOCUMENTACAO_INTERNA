@@ -18,8 +18,7 @@ Após os passos acima cadastrados, clicar no botão integrações e preencher as
 
 <figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 

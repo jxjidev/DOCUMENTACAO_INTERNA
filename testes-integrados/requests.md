@@ -22,8 +22,7 @@ TEST\_SYNC &#x20;
 
 &#x20;ativo.
 
-![](<../.gitbook/assets/image (80).png>)\
-
+![](<../.gitbook/assets/image (80).png>)<br>
 
 Configurar a tabela ZTBQAD0009\
 \

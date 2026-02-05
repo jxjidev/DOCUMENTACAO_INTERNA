@@ -8,8 +8,7 @@ ZCLQAD\_TOKEN&#x20;
 
 Classe que retorna a mensagem.&#x20;
 
-ZCLQAD\_COMPONENT\_HTTP->M\_GET\_RESPONSE \
-
+ZCLQAD\_COMPONENT\_HTTP->M\_GET\_RESPONSE <br>
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 

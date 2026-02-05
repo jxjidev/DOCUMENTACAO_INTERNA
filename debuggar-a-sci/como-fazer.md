@@ -3,8 +3,7 @@
 Abra a SCI e insira o nome que está localizado na ZQAMETRIK.\
 \
 Procedimento para capturar as informações da transação ZQAMETRIK.\
-[https://app.gitbook.com/o/R99nZu0E5ufbK0zZ2SoD/s/AX2kWrvGxHpzBytQuSWv/transacoes-importantes/zqametrik/como-usar-o-zqametrik](../transacoes-importantes/zqametrik/como-usar-o-zqametrik.md)\
-
+[https://app.gitbook.com/o/R99nZu0E5ufbK0zZ2SoD/s/AX2kWrvGxHpzBytQuSWv/transacoes-importantes/zqametrik/como-usar-o-zqametrik](../transacoes-importantes/zqametrik/como-usar-o-zqametrik.md)<br>
 
 <figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 

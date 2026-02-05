@@ -3,8 +3,7 @@
 Criar uma configuração SM59, para geração do proxy.&#x20;
 
 Similar a esse que está configurado na Brisanet. \
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 

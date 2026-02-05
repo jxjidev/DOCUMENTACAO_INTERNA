@@ -26,4 +26,4 @@ Os pacotes deverão ser analisados a versão do cliente e depois gerado uma requ
 /QADEVOPS/SCI
 
 Criar baseado no nosso ambiente S/4HANA a variante na SCI\
-ZQADASSESS\
+ZQADASSESS<br>

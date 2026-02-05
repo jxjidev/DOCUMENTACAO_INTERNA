@@ -1,8 +1,7 @@
 # Ambiente Homologação e desenvolvimento - compartilhado
 
 Para esses ambientes o banco de dados encontra-se no mesmo servidor da aplicação:\
-\
-
+<br>
 
 | <p><br>Dados da VM</p> |                                |
 | ---------------------- | ------------------------------ |

@@ -2,8 +2,7 @@
 
 Para fazer o cadastro de ambiente, primeiro clicamos em Integrações e criamos uma integração, no caso a baixo é de CPI, mas também pode ser criado como RFC ou PI.\
 \
-De acordo com o modelo que foi implementando no cliente.\
-
+De acordo com o modelo que foi implementando no cliente.<br>
 
 <figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 

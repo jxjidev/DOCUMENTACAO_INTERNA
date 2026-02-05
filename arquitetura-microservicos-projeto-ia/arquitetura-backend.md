@@ -11,4 +11,4 @@ A arquitetura de backend é composta por diversos componentes integrados para su
    * **Service Claude - AI**: Um serviço adicional de IA que complementa as funcionalidades do sistema.
 6. **Databases**: Dois bancos de dados, um específico para operações de DevOps e outro para dados relacionados à IA.
 
-\
+<br>
