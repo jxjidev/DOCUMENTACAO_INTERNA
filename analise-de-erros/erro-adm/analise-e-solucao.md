@@ -4,4 +4,4 @@ Solicitar a equipe do Portal eliminar a validação de troca de senha do usuári
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
