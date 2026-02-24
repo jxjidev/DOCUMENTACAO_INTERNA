@@ -126,3 +126,4 @@
   * [Histórico](gestao-de-custo/historico.md)
 * [Exceção](excecao/README.md)
   * [Nadir e Duas Rodas](excecao/nadir-e-duas-rodas.md)
+* [Análise de Erros](analise-de-erros.md)
