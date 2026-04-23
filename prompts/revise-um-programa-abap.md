@@ -1,2 +1,0 @@
-# Revise um Programa ABAP
-

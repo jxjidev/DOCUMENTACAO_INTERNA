@@ -1,2 +1,0 @@
-# Debuggar a SCI
-

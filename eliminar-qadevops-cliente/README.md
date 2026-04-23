@@ -1,4 +1,0 @@
-# Eliminar QADevOps - Cliente
-
-\
-<br>

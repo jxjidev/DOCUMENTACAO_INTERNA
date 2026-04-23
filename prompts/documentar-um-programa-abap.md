@@ -1,2 +1,0 @@
-# Documentar um programa ABAP
-
